@@ -29,5 +29,4 @@ This project presents a comprehensive analysis of **FitBit** fitness tracker dat
 2. Open it using **Power BI Desktop**.
 3. Interact with the visuals using the filters and charts provided.
 
----
-*Special thanks to **NTI** and Eng. **Esraa Eleraky** for the mentorship and support during this project.*
+
